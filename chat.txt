@@ -1,0 +1,10 @@
+Kalle: Hej, hur mår du idag?
+Anna: Jag mår bra, tack! Hur mår du själv?
+Kalle: Jag mår också bra, tack för att du frågar.
+Anna: Vad har du haft för dig idag?
+Kalle: Ingenting särskilt, bara jobbat och tagit det lugnt hemma. Vad har du gjort idag?
+Anna: Jag har haft möten hela dagen på jobbet, så jag är ganska trött nu.
+Kalle: Förstår det, möten kan verkligen ta på krafterna. Ska du göra något speciellt ikväll?
+Anna: Nej, jag tror jag ska ta det lugnt och titta på en film eller något. Och du?
+Kalle: Jag funderar på att gå på bio med några vänner, men vi får se.
+Anna: Låter trevligt, hoppas du får en bra kväll!
